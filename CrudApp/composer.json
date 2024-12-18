@@ -1,0 +1,14 @@
+{
+    "require": {
+        "arhitector/yandex": "dev-master",
+        "php-http/message-factory": "^1.1"
+    },
+    "config": {
+        "platform": {
+            "php": "8.1.14"
+        },
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
